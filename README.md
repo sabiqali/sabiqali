@@ -8,7 +8,7 @@ Coder by day, Explorer by Night. Love working with new devices. Coding when all 
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [sabiq.work@gmail.com](mailto:sabiq.work@gmail.com)
-* 🤝  I'm open to collaborating on Epigenetics Projects, Computational Biology Projects, Algorithm Design
+* 🤝  I'm open to collaborating on Epigenetics, Computational Biology, Algorithm Design, Architecture Design, FPGA Acceleratation, GPU Acceleration Projects
 
 <a href="https://www.github.com/sabiqali" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sabiqali?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
